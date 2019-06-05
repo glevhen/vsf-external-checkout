@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Vendic/vsf-external-checkout/issues"
   },
-  "homepage": "https://github.com/Vendic/vsf-external-checkout#readme"
+  "homepage": "https://github.com/Vendic/vsf-external-checkout#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
 }
